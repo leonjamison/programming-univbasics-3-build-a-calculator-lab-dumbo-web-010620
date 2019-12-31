@@ -1,4 +1,4 @@
-def addition(num1, num2) do
+def addition(num1, num2) 
   puts (1,2)
   end
 end
